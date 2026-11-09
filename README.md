@@ -197,3 +197,6 @@ This repository serves as the official landing page for Star Wars: Dark Forces R
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Star Wars: Dark Forces Remaster today!**
+
+---
+**Last updated:** 2026-11-09 13:42:40 UTC
