@@ -199,4 +199,4 @@ This repository serves as the official landing page for Star Wars: Dark Forces R
 **Get the most recent version of Star Wars: Dark Forces Remaster today!**
 
 ---
-**Last updated:** 2026-11-12 23:22:56 UTC
+**Last updated:** 2026-11-13 05:54:45 UTC
